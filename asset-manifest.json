@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/exp-tracker-rtk/static/css/main.9303ba8c.css",
+    "main.js": "/exp-tracker-rtk/static/js/main.dcbb5fa5.js",
+    "static/js/787.73d4dfb6.chunk.js": "/exp-tracker-rtk/static/js/787.73d4dfb6.chunk.js",
+    "index.html": "/exp-tracker-rtk/index.html",
+    "main.9303ba8c.css.map": "/exp-tracker-rtk/static/css/main.9303ba8c.css.map",
+    "main.dcbb5fa5.js.map": "/exp-tracker-rtk/static/js/main.dcbb5fa5.js.map",
+    "787.73d4dfb6.chunk.js.map": "/exp-tracker-rtk/static/js/787.73d4dfb6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9303ba8c.css",
+    "static/js/main.dcbb5fa5.js"
+  ]
+}
